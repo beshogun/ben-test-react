@@ -1,0 +1,22 @@
+.user__box {
+  display: grid;
+  height: 10rem;
+  width: 100%;
+  grid-template-columns: .2fr 1fr;
+  align-items: center;
+  justify-content: start;
+}
+
+.img__box {
+    padding-left:   3rem;
+    padding-right:   3rem;
+}
+.text__box {
+    font-size: 2rem;
+}
+.image {
+  height: 90%;
+  -webkit-clip-path: circle(50% at 50% 50%);
+  clip-path: circle(50% at 50% 50%);
+  border-radius: 50%;
+}

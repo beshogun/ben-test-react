@@ -1,0 +1,13 @@
+.header {
+  height: 27.5vh;
+  background: rgba(241, 241, 241, 1);
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.text__box-header {
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

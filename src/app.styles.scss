@@ -1,0 +1,11 @@
+.users__box {
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    overflow-y: scroll;
+    align-items: center;
+    justify-content: start;
+}

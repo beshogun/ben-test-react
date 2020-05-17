@@ -30,6 +30,8 @@
     transform: translate(-50%, -50%);
     background: rgba(229, 241, 204, 0.344);
     animation: ripple 3s ease infinite;
+    overflow: hidden;
+
   }
 
   .small-circle {

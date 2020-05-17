@@ -40,7 +40,7 @@ const App = () => {
 
   return (
     <div className="App">
-      {!ripple.rippleOff && users.users ? (
+      {!ripple.rippleOff ? (
         <Spinner />
       ) : (
         <div className="users__box" onScroll={handleScroll}>

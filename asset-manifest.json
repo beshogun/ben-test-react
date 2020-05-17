@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ben-test-react/static/css/main.56f66438.chunk.css",
+    "main.js": "/ben-test-react/static/js/main.590ae5f2.chunk.js",
+    "main.js.map": "/ben-test-react/static/js/main.590ae5f2.chunk.js.map",
+    "runtime-main.js": "/ben-test-react/static/js/runtime-main.9c7b067a.js",
+    "runtime-main.js.map": "/ben-test-react/static/js/runtime-main.9c7b067a.js.map",
+    "static/css/2.36020323.chunk.css": "/ben-test-react/static/css/2.36020323.chunk.css",
+    "static/js/2.b58c47a1.chunk.js": "/ben-test-react/static/js/2.b58c47a1.chunk.js",
+    "static/js/2.b58c47a1.chunk.js.map": "/ben-test-react/static/js/2.b58c47a1.chunk.js.map",
+    "index.html": "/ben-test-react/index.html",
+    "precache-manifest.5b8ad3f3e71b7a9e3e7bc813d6eb52bb.js": "/ben-test-react/precache-manifest.5b8ad3f3e71b7a9e3e7bc813d6eb52bb.js",
+    "service-worker.js": "/ben-test-react/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/ben-test-react/static/css/2.36020323.chunk.css.map",
+    "static/css/main.56f66438.chunk.css.map": "/ben-test-react/static/css/main.56f66438.chunk.css.map",
+    "static/js/2.b58c47a1.chunk.js.LICENSE.txt": "/ben-test-react/static/js/2.b58c47a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c7b067a.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.b58c47a1.chunk.js",
+    "static/css/main.56f66438.chunk.css",
+    "static/js/main.590ae5f2.chunk.js"
+  ]
+}
